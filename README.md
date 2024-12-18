@@ -18,9 +18,6 @@ In addition to the MERN stack, the project also incorporates:
 * Integration with MongoDB to store and retrieve data
 * Utilization of useContext for state management
 
-# Previews
-
----
 
 **Book a Listing:**
 
